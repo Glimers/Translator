@@ -1,0 +1,38 @@
+C:\Users\ethan\Desktop\Final Project\Final Project\Final Project\Final Project\Final Project\Final Project\Final Project\TranslatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\ethan\Desktop\Final Project\Final Project\Final Project\Final Project\Final Project\Final Project\Final Project\TranslatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\ethan\Desktop\Final Project\Final Project\Final Project\Final Project\Final Project\Final Project\Final Project\TranslatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\ethan\Desktop\Final Project\Final Project\Final Project\Final Project\Final Project\Final Project\Final Project\TranslatorTest\bin\Debug\TranslatorTest.dll
+C:\Users\ethan\Desktop\Final Project\Final Project\Final Project\Final Project\Final Project\Final Project\Final Project\TranslatorTest\bin\Debug\TranslatorTest.pdb
+C:\Users\ethan\Desktop\Final Project\Final Project\Final Project\Final Project\Final Project\Final Project\Final Project\TranslatorTest\bin\Debug\Final Project.exe
+C:\Users\ethan\Desktop\Final Project\Final Project\Final Project\Final Project\Final Project\Final Project\Final Project\TranslatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\ethan\Desktop\Final Project\Final Project\Final Project\Final Project\Final Project\Final Project\Final Project\TranslatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\ethan\Desktop\Final Project\Final Project\Final Project\Final Project\Final Project\Final Project\Final Project\TranslatorTest\bin\Debug\Validation.dll
+C:\Users\ethan\Desktop\Final Project\Final Project\Final Project\Final Project\Final Project\Final Project\Final Project\TranslatorTest\bin\Debug\Final Project.pdb
+C:\Users\ethan\Desktop\Final Project\Final Project\Final Project\Final Project\Final Project\Final Project\Final Project\TranslatorTest\bin\Debug\Final Project.exe.config
+C:\Users\ethan\Desktop\Final Project\Final Project\Final Project\Final Project\Final Project\Final Project\Final Project\TranslatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\ethan\Desktop\Final Project\Final Project\Final Project\Final Project\Final Project\Final Project\Final Project\TranslatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\ethan\Desktop\Final Project\Final Project\Final Project\Final Project\Final Project\Final Project\Final Project\TranslatorTest\bin\Debug\Validation.pdb
+C:\Users\ethan\Desktop\Final Project\Final Project\Final Project\Final Project\Final Project\Final Project\Final Project\TranslatorTest\obj\Debug\TranslatorTest.csprojAssemblyReference.cache
+C:\Users\ethan\Desktop\Final Project\Final Project\Final Project\Final Project\Final Project\Final Project\Final Project\TranslatorTest\obj\Debug\TranslatorTest.csproj.CoreCompileInputs.cache
+C:\Users\ethan\Desktop\Final Project\Final Project\Final Project\Final Project\Final Project\Final Project\Final Project\TranslatorTest\obj\Debug\TranslatorTest.csproj.CopyComplete
+C:\Users\ethan\Desktop\Final Project\Final Project\Final Project\Final Project\Final Project\Final Project\Final Project\TranslatorTest\obj\Debug\TranslatorTest.dll
+C:\Users\ethan\Desktop\Final Project\Final Project\Final Project\Final Project\Final Project\Final Project\Final Project\TranslatorTest\obj\Debug\TranslatorTest.pdb
+C:\Users\ethan\OneDrive\Desktop\Final Project\Final Project\TranslatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\ethan\OneDrive\Desktop\Final Project\Final Project\TranslatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\ethan\OneDrive\Desktop\Final Project\Final Project\TranslatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\ethan\OneDrive\Desktop\Final Project\Final Project\TranslatorTest\bin\Debug\TranslatorTest.dll
+C:\Users\ethan\OneDrive\Desktop\Final Project\Final Project\TranslatorTest\bin\Debug\TranslatorTest.pdb
+C:\Users\ethan\OneDrive\Desktop\Final Project\Final Project\TranslatorTest\bin\Debug\Final Project.exe
+C:\Users\ethan\OneDrive\Desktop\Final Project\Final Project\TranslatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\ethan\OneDrive\Desktop\Final Project\Final Project\TranslatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\ethan\OneDrive\Desktop\Final Project\Final Project\TranslatorTest\bin\Debug\Validation.dll
+C:\Users\ethan\OneDrive\Desktop\Final Project\Final Project\TranslatorTest\bin\Debug\Final Project.pdb
+C:\Users\ethan\OneDrive\Desktop\Final Project\Final Project\TranslatorTest\bin\Debug\Final Project.exe.config
+C:\Users\ethan\OneDrive\Desktop\Final Project\Final Project\TranslatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\ethan\OneDrive\Desktop\Final Project\Final Project\TranslatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\ethan\OneDrive\Desktop\Final Project\Final Project\TranslatorTest\bin\Debug\Validation.pdb
+C:\Users\ethan\OneDrive\Desktop\Final Project\Final Project\TranslatorTest\obj\Debug\TranslatorTest.csprojAssemblyReference.cache
+C:\Users\ethan\OneDrive\Desktop\Final Project\Final Project\TranslatorTest\obj\Debug\TranslatorTest.csproj.CoreCompileInputs.cache
+C:\Users\ethan\OneDrive\Desktop\Final Project\Final Project\TranslatorTest\obj\Debug\TranslatorTest.csproj.CopyComplete
+C:\Users\ethan\OneDrive\Desktop\Final Project\Final Project\TranslatorTest\obj\Debug\TranslatorTest.dll
+C:\Users\ethan\OneDrive\Desktop\Final Project\Final Project\TranslatorTest\obj\Debug\TranslatorTest.pdb
